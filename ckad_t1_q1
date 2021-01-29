@@ -1,0 +1,3 @@
+# Run this command if you are working in minikube
+# This command allows you to enable Metrics Server
+kubectl apply -f https://github.com/pythianarora/total-practice/blob/master/sample-kubernetes-code/metrics-server.yaml
