@@ -1,0 +1,4 @@
+# Run this command if you are working in minikube
+# This command allows you to create a nginx pod
+kubectl run nginx --image=nginx
+
