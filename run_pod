@@ -1,0 +1,7 @@
+pod name : nginx-web
+container name : nginx
+port : 80
+label : 
+  - type : web
+  - role : admin
+namespace : nginx-ns
